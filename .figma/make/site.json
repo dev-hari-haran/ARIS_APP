@@ -1,0 +1,10 @@
+{
+  "description": "Provides AI-powered farm intelligence with an intuitive desktop interface to help farmers optimize crop management and boost productivity efficiently.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
